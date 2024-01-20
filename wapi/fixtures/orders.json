@@ -1,0 +1,14 @@
+[
+  {
+    "model": "wapi.order",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "name": "test order",
+      "customer_phone": "615-666-6666",
+      "customer_email": "test@testing.com",
+      "order_type": 2,
+      "is_closed": false
+    }
+  }
+]

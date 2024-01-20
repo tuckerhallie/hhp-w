@@ -1,0 +1,19 @@
+[
+  {
+    "model": "wapi.orderitem",
+    "pk": 1,
+    "fields": {
+      "order": 1,
+      "item": 1
+    }
+  },
+  {
+    "model": "wapi.orderitem",
+    "pk": 2,
+    "fields": {
+      "order": 1,
+      "item": 2
+    }
+  }
+
+]

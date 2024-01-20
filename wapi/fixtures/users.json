@@ -1,0 +1,10 @@
+[
+  {
+    "model": "wapi.user",
+    "pk": 1,
+    "fields": {
+      "username": "froggy-fresh",
+      "uid": "08374yrhwiorywpe8yrhwer"
+    }
+  }
+]

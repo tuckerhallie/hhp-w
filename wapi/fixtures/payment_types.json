@@ -1,0 +1,9 @@
+[
+  {
+    "model": "wapi.paymenttype",
+    "pk": 1,
+    "fields": {
+      "type": "cash"
+    }
+  }
+]

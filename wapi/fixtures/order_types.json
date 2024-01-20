@@ -1,0 +1,16 @@
+[
+{
+  "model": "wapi.ordertype",
+  "pk": 1,
+  "fields": {
+    "label": "walk-in"
+  }
+},
+{
+  "model": "wapi.ordertype",
+  "pk": 2,
+  "fields": {
+    "label": "phone"
+  }
+}
+]
